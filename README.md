@@ -112,8 +112,8 @@ Larger-screen churn likely stems from buffering issues, app crashes, slow load t
 
 <table>
   <tr>
-    <td><<img width="452" height="224" alt="image" src="https://github.com/user-attachments/assets/51671d21-2b92-403b-9721-9255dc9c9966" /></td>
-    <td><img width="446" height="221" alt="image" src="https://github.com/user-attachments/assets/aab80c18-9b6a-42ac-b00f-9c747f13e78d" /></td>
+    <td><img width="480" height="300" alt="image" src="https://github.com/user-attachments/assets/51671d21-2b92-403b-9721-9255dc9c9966" /></td>
+    <td><img width="480" height="300" alt="image" src="https://github.com/user-attachments/assets/aab80c18-9b6a-42ac-b00f-9c747f13e78d" /></td>
   </tr>
 </table>
 
