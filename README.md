@@ -112,10 +112,11 @@ Larger-screen churn likely stems from buffering issues, app crashes, slow load t
 
 <table>
   <tr>
-    <td><img height="220" src="https://github.com/user-attachments/assets/5b3c1b5e-cbce-481b-b076-7eb95f62b088" /></td>
-    <td><img height="220" src="https://github.com/user-attachments/assets/0fd65cd3-80dd-43cc-906e-19a6a11c520f" /></td>
+    <td><<img width="452" height="224" alt="image" src="https://github.com/user-attachments/assets/51671d21-2b92-403b-9721-9255dc9c9966" /></td>
+    <td><img width="446" height="221" alt="image" src="https://github.com/user-attachments/assets/aab80c18-9b6a-42ac-b00f-9c747f13e78d" /></td>
   </tr>
 </table>
+
 
 
 ### 6. Which device-subscription combinations dominate churned user behaviour?
