@@ -26,7 +26,6 @@ The dataset used for this analysis consists of 25140 rows and can be downloaded 
   <img width="534" height="770" alt="image" src="https://github.com/user-attachments/assets/0486527f-d77f-4ee4-82cb-2199ff7b85af" />
 </p>
 
-*Image credit: The Indian Express*
 
 ## Implementation
 
@@ -94,6 +93,7 @@ The table below showcases details about the various subscription plan Netflix of
   <img width="600" height="254" alt="Image" src="https://github.com/user-attachments/assets/cb8c0369-43e9-4bf2-b239-e4fde249a775" />
 </p>
 
+*Image credit: The Indian Express*
 
 Although, with 29.91% and 28.92%, the Standard and Premium plans dominate the platform, the Mobile plan, with only 18% of the user base, shows a notable weakness. Despite a user gap of approximately 3,000 from the tow other leading plans, it records the highest within-base churn (35.34%). This high churn, likely due to its restrictive functionalities and poor user experience—including 480p standard resolution, single-device viewing, and no large-screen casting—suggests many users opt for the Mobile plan initially due to lower pricing but churn quickly when expectations are not met, highlighting stronger loyalty or satisfaction for higher-tier plans and inefficiencies or discontent in low-tier option.
 
@@ -112,8 +112,8 @@ Larger-screen churn likely stems from buffering issues, app crashes, slow load t
 
 <table>
   <tr>
-    <td><img width="480" height="300" alt="image" src="https://github.com/user-attachments/assets/51671d21-2b92-403b-9721-9255dc9c9966" /></td>
-    <td><img width="480" height="300" alt="image" src="https://github.com/user-attachments/assets/aab80c18-9b6a-42ac-b00f-9c747f13e78d" /></td>
+    <td><img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/51671d21-2b92-403b-9721-9255dc9c9966" /></td>
+    <td><img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/aab80c18-9b6a-42ac-b00f-9c747f13e78d" /></td>
   </tr>
 </table>
 
