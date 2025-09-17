@@ -66,7 +66,9 @@ Roughly 1 out of every 3 users (34.61%) have churned, which indicates that the b
 
 ### 2. Which age groups have the highest user numbers and the highest churn rate?
 
-The 18–29 group has the largest base (4,512) and the highest churn volume (17.37%), followed by the 70–80 group (4,000 users, 15.72% churn share). While churn rates across most groups cluster around ~33.5–35%, the 40–49 segment is highest at 35.40% and 18–29 is lowest at 33.49%, showing its churn volume stems from size, not weak retention. The <18 group, though smallest (1,813 users, 7.17% churn), records a relatively high churn rate (34.42%), even above older age segments like 60–69 (34.22%) and 70–80 (34.20%), suggesting early drop-offs.
+The 18–29 group has the largest base (4,512) and the highest churn volume (17.37%), followed by the 70–80 group (4,000 users, 15.72% churn share). While churn rates across most groups cluster around ~33.5–35%, the 40–49 segment is highest at 35.40% and 18–29 is lowest at 33.49%, showing its churn volume stems from size, not weak retention. 
+
+The <18 age group, though smallest (1,813 users, 7.17% churn), records a relatively high within-base churn rate (34.42%), even above older age segments like 60–69 (34.22%) and 70–80 (34.20%), suggesting early drop-offs.
 
 
 <p align="center">
@@ -76,7 +78,11 @@ The 18–29 group has the largest base (4,512) and the highest churn volume (17.
 
 ### 3. Which countries show the highest and lowest churn?
 
-The USA, with the largest customer base of 5,859 (23.31%), accounts for 23% of total churn, suggesting that overall churn is a function of scale rather than poor loyalty. The user volume in every other country is approximately one-third or more of that of the USA. Among the 11 countries analyzed, Canada shows the highest churn rate at 36.52% with a total of only 1,985 users, indicating significant user disengagement. Similarly, the UK, despite having the smallest user base of 1,851, records a high churn rate of 35.66%, again pointing to poor retention. India, however, stands out with the lowest overall churn (7.38%) and the lowest churn rate within its user base (33.28%), showcasing strong retention.
+The USA, with the largest customer base of 5,859 (23.31%), accounts for 23% of total churn, suggesting that overall churn is a function of scale rather than poor loyalty. The user volume in every other country is approximately one-third or more of that of the USA. 
+
+Among the 11 countries analyzed, Canada shows the highest churn rate at 36.52% with a total of only 1,985 users, indicating significant user disengagement. 
+
+Similarly, the UK, despite having the smallest user base (1,851 users), records a high churn rate of 35.66%, again pointing to poor retention. India, however, stands out with the lowest overall churn (7.38%) and the lowest churn rate within its user base (33.28%), showcasing strong retention.
 
 
 <p align="center">
@@ -86,7 +92,7 @@ The USA, with the largest customer base of 5,859 (23.31%), accounts for 23% of t
 
 ### 4. Is churn rate different across subscription types?
 
-The table below showcases details about the various subscription plan Netflix offers.
+The table below showcases details about the various subscription plans Netflix offers.
 
 
 <p align="center">
@@ -95,7 +101,8 @@ The table below showcases details about the various subscription plan Netflix of
 
 *Image credit: The Indian Express*
 
-Although, with 29.91% and 28.92%, the Standard and Premium plans dominate the platform, the Mobile plan, with only 18% of the user base, shows a notable weakness. Despite a user gap of approximately 3,000 from the tow other leading plans, it records the highest within-base churn (35.34%). This high churn, likely due to its restrictive functionalities and poor user experience—including 480p standard resolution, single-device viewing, and no large-screen casting—suggests many users opt for the Mobile plan initially due to lower pricing but churn quickly when expectations are not met, highlighting stronger loyalty or satisfaction for higher-tier plans and inefficiencies or discontent in low-tier option.
+
+Although, with 29.91% and 28.92% of total users respectively, the Standard and Premium plans dominate the platform, on the other hand, the Mobile plan, with only 18% of the user base, shows a notable weakness. Despite a user gap of approximately 3,000 from the tow other leading plans, it records the highest within-base churn (35.34%). This high churn, likely due to its restrictive functionalities and poor user experience—including 480p standard resolution, single-device viewing, and no large-screen casting—suggests many users opt for the Mobile plan initially due to lower pricing but churn quickly when expectations are not met, highlighting stronger loyalty or satisfaction for higher-tier plans and inefficiencies or discontent in low-tier option.
 
 
 <p align="center">
@@ -105,7 +112,7 @@ Although, with 29.91% and 28.92%, the Standard and Premium plans dominate the pl
 
 ### 5. How do satisfaction, engagement, and support interactions vary between churned and retained users across subscription plans?
 
-Out of the 18.21% Mobile plan users who churned, 10.15% are Tablet users—over 55% of total churn— even though tablets, with larger screens and better resolution, are assumed to provide a superior experience. Standard and Premium together contribute nearly 59% of churn, while the Basic plan adds another 23.05%. Across these three plans, larger-screen devices—namely Smart TVs (20.40%), Laptops (20.25%), and Desktops (19.85%)—are the top contributors, highlighting that larger-screen devices dominate the churn landscape among higher-tier users. 
+Out of the 18.21% Mobile plan users who churned, 10.15% are Tablet users—over 55% of total churn—even though tablets, with larger screens and better resolution, are assumed to provide a superior experience. Standard and Premium together contribute nearly 59% of churn, while the Basic plan adds another 23.05%. Across these three plans, larger-screen devices—namely Smart TVs (20.40%), Laptops (20.25%), and Desktops (19.85%)—are the top contributors, highlighting that larger-screen devices dominate the churn landscape among higher-tier users. 
 
 Larger-screen churn likely stems from buffering issues, app crashes, slow load times, or perceived value gap — causing frustration, especially among higher-paying subscribers who expect premium performance and ultimately driving churn when the platform feels subpar or outdated on big screens. For Basic users, churn may be driven by fundamental performance problems or poor resolution even on stable large screens. These are potential causes and need further investigation to validate.
 
@@ -122,7 +129,9 @@ Larger-screen churn likely stems from buffering issues, app crashes, slow load t
 ### 6. Which device-subscription combinations dominate churned user behaviour?
 
 Churned users report over 55% lower satisfaction than retained ones (3.5 vs 7.9), with Premium users showing the lowest score (3.48) despite paying the most—signaling unmet expectations and price sensitivity as major churn drivers. 
+
 Engagement, however, is not predictive, as usage levels between churned and retained users remain nearly identical (~6.20–6.23), though Mobile churners lag slightly (6.16), likely due to screen exhaustion and reduced cinematic experience, and casual on-the-go viewing during commutes or breaks. It suggests usage alone doesn’t guarantee retention if overall experience is disappointing. 
+
 Support interactions provide another strong cue. On average, a churned user logs ~4.5 support queries—about 3.5× more than a non-churned user (~1.3), linking unresolved issues directly to churn. Marginally high engagement but low satisfaction among churned Premium users could suggest they’re using the service but don’t feel it’s worth the high cost.
 
 
@@ -167,7 +176,9 @@ Support queries show a strong positive correlation with churn (r = +0.82), indic
 ### 10. What key behavioural differences exist between churned and retained users?
 
 Since findings on satisfaction, engagement, and support interactions align with the patterns discussed in the 6th question (across subscription plans), the focus here shifts to other behavioural variables.
+
 The extremely weak correlation of Engagement Score (6.23 vs 6.21) and Daily Watch Time (2.75 vs 2.74 hrs) with churn explains the <0.05% difference between churned and retained users, indicating users often churn despite similar usage.
+
 Both churned and retained users show almost identical promotional offer usage (2.50 vs 2.52), thus proving its poor association with churn. 
 A slightly higher proportion of retained users tend to delay payments (50.63%) compared to churned users (49.45%), with just over a 1% difference.
 
