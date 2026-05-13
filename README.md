@@ -43,7 +43,7 @@ The analysis was carried out in Python using Visual Studio Code, utilizing the f
 3. [Which countries show the highest and lowest churn?](#3-which-countries-show-the-highest-and-lowest-churn)
 4. [Is churn rate different across subscription types?](#4-is-churn-rate-different-across-subscription-types)
 5. [Which device-subscription combinations dominate churned user behaviour?](#6-which-device-subscription-combinations-dominate-churned-user-behaviour)
-5. [How do satisfaction, engagement, and support interactions vary between churned and retained users across subscription plans?](#5-how-do-satisfaction-engagement-and-support-interactions-vary-between-churned-and-retained-users-across-subscription-plans)
+6. [How do satisfaction, engagement, and support interactions vary between churned and retained users across subscription plans?](#5-how-do-satisfaction-engagement-and-support-interactions-vary-between-churned-and-retained-users-across-subscription-plans)
 7. [Does longer subscription length reduce churn?](#7-does-longer-subscription-length-reduce-churn)
 8. [How does churn vary by genre?](#8-how-does-churn-vary-by-genre)
 9. [Which factors are most strongly correlated with customer churn behaviour?](#9-which-factors-are-most-strongly-correlated-with-customer-churn-behaviour)
