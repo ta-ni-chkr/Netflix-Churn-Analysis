@@ -110,7 +110,7 @@ Although, with 29.91% and 28.92% of total users respectively, the Standard and P
 </p>
 
 
-### 5. How do satisfaction, engagement, and support interactions vary between churned and retained users across subscription plans?
+### 5. Which device-subscription combinations dominate churned user behaviour?
 
 Out of the 18.21% Mobile plan users who churned, 10.15% are Tablet users—over 55% of total churn—even though tablets, with larger screens and better resolution, are assumed to provide a superior experience. Standard and Premium together contribute nearly 59% of churn, while the Basic plan adds another 23.05%. Across these three plans, larger-screen devices—namely Smart TVs (20.40%), Laptops (20.25%), and Desktops (19.85%)—are the top contributors, highlighting that larger-screen devices dominate the churn landscape among higher-tier users. 
 
@@ -126,7 +126,7 @@ Larger-screen churn likely stems from buffering issues, app crashes, slow load t
 
 
 
-### 6. Which device-subscription combinations dominate churned user behaviour?
+### 6. How do satisfaction, engagement, and support interactions vary between churned and retained users across subscription plans?
 
 Churned users report over 55% lower satisfaction than retained ones (3.5 vs 7.9), with Premium users showing the lowest score (3.48) despite paying the most—signaling unmet expectations and price sensitivity as major churn drivers. 
 
